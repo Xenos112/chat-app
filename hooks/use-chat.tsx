@@ -7,7 +7,7 @@ const initialChats: Chat[] = [
   {
     id: "1",
     name: "Miamoto Musashi",
-    avatar: "/musahsi.png",
+    avatar: "/musashi.png",
     lastMessage: "Hey! How are you doing?",
     timestamp: new Date(Date.now() - 1000 * 60 * 5),
     unread: 2,
@@ -38,7 +38,7 @@ const initialChats: Chat[] = [
   {
     id: "2",
     name: "Guts",
-    avatar: "/avatar-2.svg",
+    avatar: "/guts.png",
     lastMessage: "The meeting is at 3 PM",
     timestamp: new Date(Date.now() - 1000 * 60 * 30),
     unread: 0,
